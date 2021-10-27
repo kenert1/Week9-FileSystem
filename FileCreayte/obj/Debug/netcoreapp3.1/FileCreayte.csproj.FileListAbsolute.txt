@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\bin\Debug\netcoreapp3.1\FileCreayte.exe
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\bin\Debug\netcoreapp3.1\FileCreayte.deps.json
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\bin\Debug\netcoreapp3.1\FileCreayte.runtimeconfig.json
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\bin\Debug\netcoreapp3.1\FileCreayte.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\bin\Debug\netcoreapp3.1\FileCreayte.dll
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\bin\Debug\netcoreapp3.1\FileCreayte.pdb
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.dll
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.pdb
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TiTpe21\FileCreayte\FileCreayte\obj\Debug\netcoreapp3.1\FileCreayte.csprojAssemblyReference.cache
